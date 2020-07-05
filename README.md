@@ -1,3 +1,5 @@
+Based on tutorial from https://rapidapi.com/blog/weather-app-react/ with the modification of moving the form to be its own component.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
